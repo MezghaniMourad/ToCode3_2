@@ -1,0 +1,5 @@
+*** WS1***
+The web service ws1 I takes as input  the country's name and gives us its IsoCode
+*** WS2***
+The second web service WS2 takes the country's ISO code as input and gives us its flag.
+
